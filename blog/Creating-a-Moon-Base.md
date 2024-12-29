@@ -127,3 +127,4 @@ In conclusion, the creation of a moon base is a complex yet achievable goal that
 - Artemis Accords. (n.d.). Principles for lunar exploration. [source](https://www.nasa.gov/specials/artemis-accords/index.html)
 - NASA General. (n.d.). NASA outlines lunar surface sustainability concept. [source](https://www.nasa.gov/general/nasa-outlines-lunar-surface-sustainability-concept/)
 - NASA ISRU. (n.d.). NASA's in-situ resource utilization initiative. [source](https://www.nasa.gov/feature/nasa-s-in-situ-resource-utilization-initiative/)
+- [YouTube](https://youtu.be/6JvjV8sj5HU)
